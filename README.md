@@ -39,6 +39,18 @@
 
 Можно пройти кейсы как студент, но **без сохранения результатов** — 
 после закрытия окна прогресс сбрасывается.
+## 🚀 Попробовать прямо сейчас
+
+<div align="center">
+
+[![Веб-версия](https://img.shields.io/badge/🌐_Открыть-веб--версию-blue?style=for-the-badge)](https://freilakh13.github.io/radiologist_v1/)
+
+[![Скачать для Windows](https://img.shields.io/badge/💾_Скачать-Windows_.zip-green?style=for-the-badge)](https://github.com/Freilakh13/radiologist_v1/releases/download/v1.0.0/Radiologist-Windows.zip)
+
+</div>
+
+> 💡 **Веб-версия** — попробовать без установки.  
+> 💻 **Windows-версия** — полный функционал с сохранением результатов.
 
 ## 📱 Как пользоваться
 
