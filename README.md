@@ -26,7 +26,7 @@
 > **После аварии сервера сейчас доступен только гостевой режим.**
 > Регистрация, личный кабинет и мониторинг преподавателем временно 
 > недоступны — мы переезжаем на новую инфраструктуру. Следите за 
-> обновлениями в [телеграм-канале](https://t.me/ваш_канал).
+> обновлениями в [телеграм-канале](https://t.me/@medgamma).
 >
 > **Хорошая новость:** алгоритм проверки описаний встроен прямо 
 > в приложение и **не зависит от сервера**. Поэтому пройти кейсы 
@@ -38,7 +38,7 @@
 
 [![Открыть веб-версию](https://img.shields.io/badge/🌐_Открыть-веб--версию-blue?style=for-the-badge)](https://freilakh13.github.io/radiologist_v1/)
 
-[![Скачать для Windows](https://img.shields.io/badge/💾_Скачать-Windows_.zip-green?style=for-the-badge)](https://github.com/Freilakh13/radiologist_v1/releases/download/v1.0.0/Radiologist-Windows.zip)
+
 
 </div>
 
